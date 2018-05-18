@@ -1,0 +1,10 @@
+{
+  "name": "serverless-form",
+  "version": "1.0.0",
+  "description": "Serverless form for static sites",
+  "main": "index.js",
+  "repository": "git@github.com:growlybear/serverless-form.git",
+  "author": "Michael Allan <growlymike@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
