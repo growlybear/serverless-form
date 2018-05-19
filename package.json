@@ -6,5 +6,8 @@
   "repository": "git@github.com:growlybear/serverless-form.git",
   "author": "Michael Allan <growlymike@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "serverless": "^1.27.2"
+  }
 }
